@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["helpPage"],{f957:function(e,n,c){"use strict";c.r(n);var t=c("7a23"),a={class:"help"},r=Object(t["f"])("h1",null,"TODO: Добавить страницу с подсказками",-1),s=[r];function o(e,n){return Object(t["q"])(),Object(t["e"])("div",a,s)}var p=c("6b0d"),u=c.n(p);const b={},d=u()(b,[["render",o]]);n["default"]=d}}]);
+//# sourceMappingURL=helpPage.d0595bf3.js.map
