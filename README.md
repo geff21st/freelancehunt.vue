@@ -3,7 +3,7 @@
 > Реализовать простой SPA, который позволяет просматривать фриланс проекты на Freelancehunt. Забрать список проектов можно из API, данный endpoint поддерживает CORS.
 
 * [Подробное описание задания](https://github.com/freelancehunt/code-test/tree/frontend)
-* [Демонстрация результата]()
+* [Демонстрация результата](https://geff21st.github.io/freelancehunt.vue/)
 
 ## Project setup
 ```
